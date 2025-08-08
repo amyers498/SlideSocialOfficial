@@ -254,32 +254,32 @@ export default function LandingPage() {
             <Card className="bg-gradient-to-br from-pink-900/20 to-purple-900/20 border-pink-500/30 hover:border-pink-400/50 transition-all duration-300">
               <CardContent className="p-4 sm:p-6 text-center space-y-3 sm:space-y-4">
                 <Zap className="h-10 w-10 sm:h-12 sm:w-12 text-pink-400 mx-auto" />
-                <h3 className="text-lg sm:text-xl font-bold text-pink-300">Fast Matching</h3>
-                <p className="text-gray-300 text-xs sm:text-sm">Get matched in seconds, not hours. When you're ready to go, we're ready too.</p>
+                <h3 className="text-lg sm:text-xl font-bold text-white">Fast Matching</h3>
+                <p className="text-xs sm:text-sm text-slate-700">Get matched in seconds, not hours. When you're ready to go, we're ready too.</p>
               </CardContent>
             </Card>
             
             <Card className="bg-gradient-to-br from-purple-900/20 to-blue-900/20 border-purple-500/30 hover:border-purple-400/50 transition-all duration-300">
               <CardContent className="p-4 sm:p-6 text-center space-y-3 sm:space-y-4">
                 <Gamepad2 className="h-10 w-10 sm:h-12 sm:w-12 text-purple-400 mx-auto" />
-                <h3 className="text-lg sm:text-xl font-bold text-purple-300">Built for Real Life</h3>
-                <p className="text-gray-300 text-xs sm:text-sm">We get it. Late night hangouts, weekend adventures, random Tuesday vibes.</p>
+                <h3 className="text-lg sm:text-xl font-bold text-white">Built for Real Life</h3>
+                <p className="text-xs sm:text-sm text-slate-700">We get it. Late night hangouts, weekend adventures, random Tuesday vibes.</p>
               </CardContent>
             </Card>
             
             <Card className="bg-gradient-to-br from-blue-900/20 to-cyan-900/20 border-blue-500/30 hover:border-blue-400/50 transition-all duration-300">
               <CardContent className="p-4 sm:p-6 text-center space-y-3 sm:space-y-4">
                 <Shield className="h-10 w-10 sm:h-12 sm:w-12 text-blue-400 mx-auto" />
-                <h3 className="text-lg sm:text-xl font-bold text-blue-300">Safe & Vetted</h3>
-                <p className="text-gray-300 text-xs sm:text-sm">Phone verification, AI safety monitoring, and community reporting keep it real.</p>
+                <h3 className="text-lg sm:text-xl font-bold text-white">Safe & Vetted</h3>
+                <p className="text-xs sm:text-sm text-slate-700">Phone verification, AI safety monitoring, and community reporting keep it real.</p>
               </CardContent>
             </Card>
             
             <Card className="bg-gradient-to-br from-cyan-900/20 to-green-900/20 border-cyan-500/30 hover:border-cyan-400/50 transition-all duration-300">
               <CardContent className="p-4 sm:p-6 text-center space-y-3 sm:space-y-4">
                 <Users className="h-10 w-10 sm:h-12 sm:w-12 text-cyan-400 mx-auto" />
-                <h3 className="text-lg sm:text-xl font-bold text-cyan-300">Group & Solo Options</h3>
-                <p className="text-gray-300 text-xs sm:text-sm">Want a study buddy or a whole crew? We've got both covered.</p>
+                <h3 className="text-lg sm:text-xl font-bold text-white">Group & Solo Options</h3>
+                <p className="text-xs sm:text-sm text-slate-700">Want a study buddy or a whole crew? We've got both covered.</p>
               </CardContent>
             </Card>
           </div>
